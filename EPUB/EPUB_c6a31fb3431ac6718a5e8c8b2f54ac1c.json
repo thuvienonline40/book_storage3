@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quan-ly-nghiep-khai-mo-thanh-cong-ca-nhan-va-thinh-vuong-tai-chinh-duoi-goc-nhin-phat-giao_19909.html#gsc.tab=0",
+    "title" : "Quản Lý Nghiệp - Khai Mở Thành Công Cá Nhân Và Thịnh Vượng Tài Chính Dưới Góc Nhìn Phật Giáo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Geshe Michael Roach",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p></p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-06",
+    "duration" : 11555,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_c6a31fb3431ac6718a5e8c8b2f54ac1c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_c6a31fb3431ac6718a5e8c8b2f54ac1c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quan-ly-nghiep/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1286,
+    "title" : "Mở đầu- Geshe Michael Roach - Audio Book"
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1043,
+    "title" : "Luật 9 - Geshe Michael Roach - Audio Book"
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 806,
+    "title" : "Luật 1 - Geshe Michael Roach - Audio Book"
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 729,
+    "title" : "Luật 2 - Geshe Michael Roach - Audio Book"
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1318,
+    "title" : "Luật 3 - Geshe Michael Roach - Audio Book"
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2368,
+    "title" : "Luật 4 - Geshe Michael Roach - Audio Book"
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 881,
+    "title" : "Luật 5 - Geshe Michael Roach - Audio Book"
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 676,
+    "title" : "Luật 6 - Geshe Michael Roach - Audio Book"
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1317,
+    "title" : "Luật 7 - Geshe Michael Roach - Audio Book"
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1131,
+    "title" : "Luật 8 - Geshe Michael Roach - Audio Book"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quan-ly-nghiep/1.mp3",
+    "title" : "Mở đầu- Geshe Michael Roach - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/10.mp3",
+    "title" : "Luật 9 - Geshe Michael Roach - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/2.mp3",
+    "title" : "Luật 1 - Geshe Michael Roach - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/3.mp3",
+    "title" : "Luật 2 - Geshe Michael Roach - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/4.mp3",
+    "title" : "Luật 3 - Geshe Michael Roach - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/5.mp3",
+    "title" : "Luật 4 - Geshe Michael Roach - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/6.mp3",
+    "title" : "Luật 5 - Geshe Michael Roach - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/7.mp3",
+    "title" : "Luật 6 - Geshe Michael Roach - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/8.mp3",
+    "title" : "Luật 7 - Geshe Michael Roach - Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-ly-nghiep/9.mp3",
+    "title" : "Luật 8 - Geshe Michael Roach - Audio Book",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
