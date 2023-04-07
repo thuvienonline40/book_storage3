@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/day-con-ve-tai-chinh_19423.html",
+    "title" : "Dạy Con Về Tài Chính",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Joline Godfrey",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 15617,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_1c8f8235ef2245f063a1689f7fa248f4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_1c8f8235ef2245f063a1689f7fa248f4.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/01.P01A_C01_TuChiecLuoiAnToanChoDenSuTuTucVeTaiChinh_KienThucCanBietVeTaiChinh_DayConVeTaiChinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 899,
+    "title" : "01.P01A C01 TuChiecLuoiAnToanChoDenSuTuTucVeTaiChinh KienThucCanBietVeTaiChinh DayConVeTaiChinh"
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/02.P01B_C02_HaGucNhungConQuaiVatTienLamHuHongConTre_DayConVeTaiChinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1310,
+    "title" : "02.P01B C02 HaGucNhungConQuaiVatTienLamHuHongConTre DayConVeTaiChinh"
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/03.P02A_DayConVeTaiChinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2542,
+    "title" : "03.P02A DayConVeTaiChinh"
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/04.P02B_DayConVeTaiChinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2488,
+    "title" : "04.P02B DayConVeTaiChinh"
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/05.P02C_DayConVeTaiChinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1986,
+    "title" : "05.P02C DayConVeTaiChinh"
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/06.P02D_DayConVeTaiChinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2787,
+    "title" : "06.P02D DayConVeTaiChinh"
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/07.P02E_Het_DayConVeTaiChinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "07.P02E Het DayConVeTaiChinh"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/01.P01A_C01_TuChiecLuoiAnToanChoDenSuTuTucVeTaiChinh_KienThucCanBietVeTaiChinh_DayConVeTaiChinh.mp3",
+    "title" : "01.P01A C01 TuChiecLuoiAnToanChoDenSuTuTucVeTaiChinh KienThucCanBietVeTaiChinh DayConVeTaiChinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/02.P01B_C02_HaGucNhungConQuaiVatTienLamHuHongConTre_DayConVeTaiChinh.mp3",
+    "title" : "02.P01B C02 HaGucNhungConQuaiVatTienLamHuHongConTre DayConVeTaiChinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/03.P02A_DayConVeTaiChinh.mp3",
+    "title" : "03.P02A DayConVeTaiChinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/04.P02B_DayConVeTaiChinh.mp3",
+    "title" : "04.P02B DayConVeTaiChinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/05.P02C_DayConVeTaiChinh.mp3",
+    "title" : "05.P02C DayConVeTaiChinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/06.P02D_DayConVeTaiChinh.mp3",
+    "title" : "06.P02D DayConVeTaiChinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/day-con-ve-tai-chinh.sna/07.P02E_Het_DayConVeTaiChinh.mp3",
+    "title" : "07.P02E Het DayConVeTaiChinh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,56 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-em-khong-tiec-em-tiec-thanh-xuan_19802.html",
+    "title" : "Anh Em Không Tiếc, Em Tiếc Thanh Xuân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đức Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 6819,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_b1ce5de3adc3892b5e3d45a8db4306a5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_b1ce5de3adc3892b5e3d45a8db4306a5.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/aektettx/anh-em-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2742,
+    "title" : "anh-em-1"
+  }, {
+    "href" : "https://archive.org/download/aektettx/anh-em-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4077,
+    "title" : "anh-em-2"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/aektettx/anh-em-1.mp3",
+    "title" : "anh-em-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/aektettx/anh-em-2.mp3",
+    "title" : "anh-em-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

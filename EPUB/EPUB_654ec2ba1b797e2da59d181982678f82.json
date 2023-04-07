@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/90-giay-de-thu-hut-bat-ky-ai_19437.html",
+    "title" : "90 Giây Để Thu Hút Bất Kỳ Ai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nicholas Boothman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 12175,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_654ec2ba1b797e2da59d181982678f82.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_654ec2ba1b797e2da59d181982678f82.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/90-giay-de-thu-hut-bat-ky-ai.sna/90%20gi%C3%A2y%20%C4%91%E1%BB%83%20thu%20h%C3%BAt%20b%E1%BA%A5t%20k%E1%BB%B3%20ai%20full%20-%20Nicholas%20Boothman%20_%20S%C3%A1ch%20n%C3%B3i%20hay%20%C4%91%C3%A1ng%20nghe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12175,
+    "title" : "90 giây để thu hút bất kỳ ai full - Nicholas Boothman   Sách nói hay đáng nghe"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/90-giay-de-thu-hut-bat-ky-ai.sna/90%20gi%C3%A2y%20%C4%91%E1%BB%83%20thu%20h%C3%BAt%20b%E1%BA%A5t%20k%E1%BB%B3%20ai%20full%20-%20Nicholas%20Boothman%20_%20S%C3%A1ch%20n%C3%B3i%20hay%20%C4%91%C3%A1ng%20nghe.mp3",
+    "title" : "90 giây để thu hút bất kỳ ai full - Nicholas Boothman   Sách nói hay đáng nghe",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/noi-dau-lich-su-nan-doi-1945_19333.html",
+    "title" : "Nỗi Đau Lịch Sử Nạn Đói 1945",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Báo Tuổi Trẻ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 5538,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_8bc0567fc9c1ce756efe960a19068063.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_8bc0567fc9c1ce756efe960a19068063.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 880,
+    "title" : "NAN DOI 1945-01"
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 189,
+    "title" : "NAN DOI 1945-02"
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 582,
+    "title" : "NAN DOI 1945-03"
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 547,
+    "title" : "NAN DOI 1945-04"
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "NAN DOI 1945-05"
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 736,
+    "title" : "NAN DOI 1945-06"
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 818,
+    "title" : "NAN DOI 1945-07"
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 527,
+    "title" : "NAN DOI 1945-08"
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 555,
+    "title" : "NAN DOI 1945-09"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-01.mp3",
+    "title" : "NAN DOI 1945-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-02.mp3",
+    "title" : "NAN DOI 1945-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-03.mp3",
+    "title" : "NAN DOI 1945-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-04.mp3",
+    "title" : "NAN DOI 1945-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-05.mp3",
+    "title" : "NAN DOI 1945-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-06.mp3",
+    "title" : "NAN DOI 1945-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-07.mp3",
+    "title" : "NAN DOI 1945-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-08.mp3",
+    "title" : "NAN DOI 1945-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-dau-lich-su-nan-doi-1945.sna/NAN_DOI_1945-09.mp3",
+    "title" : "NAN DOI 1945-09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dieu-binh-di-thong-thai_19689.html",
+    "title" : "Điều Bình Dị Thông Thái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "First News",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 8695,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_8304fcc3b0ab09c34e295007094f2058.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_8304fcc3b0ab09c34e295007094f2058.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dieu-binh-1/dieu-binh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "dieu-binh-1"
+  }, {
+    "href" : "https://archive.org/download/dieu-binh-1/dieu-binh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "dieu-binh-2"
+  }, {
+    "href" : "https://archive.org/download/dieu-binh-1/dieu-binh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1495,
+    "title" : "dieu-binh-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dieu-binh-1/dieu-binh-1.mp3",
+    "title" : "dieu-binh-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-binh-1/dieu-binh-2.mp3",
+    "title" : "dieu-binh-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dieu-binh-1/dieu-binh-3.mp3",
+    "title" : "dieu-binh-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

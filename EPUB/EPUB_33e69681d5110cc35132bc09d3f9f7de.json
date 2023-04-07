@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/su-tich-quan-am-thi-kinh_19268.html",
+    "title" : "Sự Tích Quán Âm Thị Kính",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 6421,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_33e69681d5110cc35132bc09d3f9f7de.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_33e69681d5110cc35132bc09d3f9f7de.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/su-tich-1/su-tich-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2708,
+    "title" : "su-tich-1"
+  }, {
+    "href" : "https://archive.org/download/su-tich-1/su-tich-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1796,
+    "title" : "su-tich-2"
+  }, {
+    "href" : "https://archive.org/download/su-tich-1/su-tich-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1917,
+    "title" : "su-tich-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/su-tich-1/su-tich-1.mp3",
+    "title" : "su-tich-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-tich-1/su-tich-2.mp3",
+    "title" : "su-tich-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-tich-1/su-tich-3.mp3",
+    "title" : "su-tich-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

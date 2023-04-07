@@ -1,0 +1,176 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vung-dat-nam-bo-duoi-trieu-minh-mang-1820-1841_19334.html",
+    "title" : "Vùng Đất Nam Bộ Dưới Triều Minh Mạng ( 1820 - 1841)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Choi Byung Wook",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 29695,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_3c1278655e069649fd22d11a15f3067f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_3c1278655e069649fd22d11a15f3067f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2511,
+    "title" : "vung-dat-1"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1997,
+    "title" : "vung-dat-10"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "vung-dat-11"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2197,
+    "title" : "vung-dat-12"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2806,
+    "title" : "vung-dat-13"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 870,
+    "title" : "vung-dat-14"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "vung-dat-2"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1560,
+    "title" : "vung-dat-3"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2475,
+    "title" : "vung-dat-4"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1789,
+    "title" : "vung-dat-5"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2001,
+    "title" : "vung-dat-6"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "vung-dat-7"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2176,
+    "title" : "vung-dat-8"
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1805,
+    "title" : "vung-dat-9"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-1.mp3",
+    "title" : "vung-dat-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-10.mp3",
+    "title" : "vung-dat-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-11.mp3",
+    "title" : "vung-dat-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-12.mp3",
+    "title" : "vung-dat-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-13.mp3",
+    "title" : "vung-dat-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-14.mp3",
+    "title" : "vung-dat-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-2.mp3",
+    "title" : "vung-dat-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-3.mp3",
+    "title" : "vung-dat-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-4.mp3",
+    "title" : "vung-dat-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-5.mp3",
+    "title" : "vung-dat-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-6.mp3",
+    "title" : "vung-dat-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-7.mp3",
+    "title" : "vung-dat-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-8.mp3",
+    "title" : "vung-dat-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vung-dat-11/vung-dat-9.mp3",
+    "title" : "vung-dat-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thang-con_19703.html",
+    "title" : "Thằng Côn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duyên Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 8853,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_b7360287ca050dda5772400ad0f84ce5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_b7360287ca050dda5772400ad0f84ce5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thang-con-1/thang-con-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "thang-con-1"
+  }, {
+    "href" : "https://archive.org/download/thang-con-1/thang-con-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "thang-con-2"
+  }, {
+    "href" : "https://archive.org/download/thang-con-1/thang-con-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1653,
+    "title" : "thang-con-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thang-con-1/thang-con-1.mp3",
+    "title" : "thang-con-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thang-con-1/thang-con-2.mp3",
+    "title" : "thang-con-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thang-con-1/thang-con-3.mp3",
+    "title" : "thang-con-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

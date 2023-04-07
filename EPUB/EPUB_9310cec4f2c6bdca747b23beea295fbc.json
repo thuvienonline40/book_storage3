@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-hanh-nguoi-xuat-gia_19858.html",
+    "title" : "Tâm Hạnh Người Xuất Gia",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thông Phương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 8603,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_9310cec4f2c6bdca747b23beea295fbc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_9310cec4f2c6bdca747b23beea295fbc.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-hanh-4/tam-hanh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1523,
+    "title" : "Tam Hanh Nguoi Xuat Gia"
+  }, {
+    "href" : "https://archive.org/download/tam-hanh-4/tam-hanh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1169,
+    "title" : "Tam Hanh Nguoi Xuat Gia"
+  }, {
+    "href" : "https://archive.org/download/tam-hanh-4/tam-hanh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1709,
+    "title" : "Tam Hanh Nguoi Xuat Gia"
+  }, {
+    "href" : "https://archive.org/download/tam-hanh-4/tam-hanh-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2186,
+    "title" : "Tam Hanh Nguoi Xuat Gia"
+  }, {
+    "href" : "https://archive.org/download/tam-hanh-4/tam-hanh-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2016,
+    "title" : "Tam Hanh Nguoi Xuat Gia"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-hanh-4/tam-hanh-1.mp3",
+    "title" : "Tam Hanh Nguoi Xuat Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-hanh-4/tam-hanh-2.mp3",
+    "title" : "Tam Hanh Nguoi Xuat Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-hanh-4/tam-hanh-3.mp3",
+    "title" : "Tam Hanh Nguoi Xuat Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-hanh-4/tam-hanh-4.mp3",
+    "title" : "Tam Hanh Nguoi Xuat Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-hanh-4/tam-hanh-5.mp3",
+    "title" : "Tam Hanh Nguoi Xuat Gia",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

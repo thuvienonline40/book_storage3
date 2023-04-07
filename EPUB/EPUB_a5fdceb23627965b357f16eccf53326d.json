@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-duy-nhu-mot-ke-lap-di_19653.html",
+    "title" : "Tư Duy Như Một Kẻ Lập Dị",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Steven D. Levitt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 7293,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_a5fdceb23627965b357f16eccf53326d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_a5fdceb23627965b357f16eccf53326d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2130,
+    "title" : "tu-duy-1"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "tu-duy-2"
+  }, {
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2010,
+    "title" : "tu-duy-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-1.mp3",
+    "title" : "tu-duy-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-2.mp3",
+    "title" : "tu-duy-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-3.mp3",
+    "title" : "tu-duy-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

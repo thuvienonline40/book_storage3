@@ -1,0 +1,196 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-ty-khach-hang_19801.html",
+    "title" : "Một Tỷ Khách Hàng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James Mcgregor",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 39410,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_58a4ddbc7f8f3bf2159d0608191360b6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_58a4ddbc7f8f3bf2159d0608191360b6.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC00A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2111,
+    "title" : "MotTiKhachHangC00A"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC00B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "MotTiKhachHangC00B"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC01A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2115,
+    "title" : "MotTiKhachHangC01A"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC01B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3343,
+    "title" : "MotTiKhachHangC01B"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC02A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2671,
+    "title" : "MotTiKhachHangC02A"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC02B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2772,
+    "title" : "MotTiKhachHangC02B"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC03A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2118,
+    "title" : "MotTiKhachHangC03A"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC03B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2125,
+    "title" : "MotTiKhachHangC03B"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC04A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2109,
+    "title" : "MotTiKhachHangC04A"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC04B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2105,
+    "title" : "MotTiKhachHangC04B"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC05A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2766,
+    "title" : "MotTiKhachHangC05A"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC05B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2270,
+    "title" : "MotTiKhachHangC05B"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC06A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2847,
+    "title" : "MotTiKhachHangC06A"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC06B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2613,
+    "title" : "MotTiKhachHangC06B"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC07A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2852,
+    "title" : "MotTiKhachHangC07A"
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC07B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2155,
+    "title" : "MotTiKhachHangC07B"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC00A.mp3",
+    "title" : "MotTiKhachHangC00A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC00B.mp3",
+    "title" : "MotTiKhachHangC00B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC01A.mp3",
+    "title" : "MotTiKhachHangC01A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC01B.mp3",
+    "title" : "MotTiKhachHangC01B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC02A.mp3",
+    "title" : "MotTiKhachHangC02A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC02B.mp3",
+    "title" : "MotTiKhachHangC02B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC03A.mp3",
+    "title" : "MotTiKhachHangC03A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC03B.mp3",
+    "title" : "MotTiKhachHangC03B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC04A.mp3",
+    "title" : "MotTiKhachHangC04A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC04B.mp3",
+    "title" : "MotTiKhachHangC04B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC05A.mp3",
+    "title" : "MotTiKhachHangC05A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC05B.mp3",
+    "title" : "MotTiKhachHangC05B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC06A.mp3",
+    "title" : "MotTiKhachHangC06A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC06B.mp3",
+    "title" : "MotTiKhachHangC06B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC07A.mp3",
+    "title" : "MotTiKhachHangC07A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-ty-khach-hang.sna/MotTiKhachHangC07B.mp3",
+    "title" : "MotTiKhachHangC07B",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

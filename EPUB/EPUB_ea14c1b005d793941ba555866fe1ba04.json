@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hieu-luc-cau-nguyen_19261.html",
+    "title" : "Hiệu Lực Cầu Nguyện",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 12475,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_ea14c1b005d793941ba555866fe1ba04.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_ea14c1b005d793941ba555866fe1ba04.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hieu-luc-1/hieu-luc-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "hieu-luc-1"
+  }, {
+    "href" : "https://archive.org/download/hieu-luc-1/hieu-luc-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "hieu-luc-2"
+  }, {
+    "href" : "https://archive.org/download/hieu-luc-1/hieu-luc-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "hieu-luc-3"
+  }, {
+    "href" : "https://archive.org/download/hieu-luc-1/hieu-luc-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1675,
+    "title" : "hieu-luc-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hieu-luc-1/hieu-luc-1.mp3",
+    "title" : "hieu-luc-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-luc-1/hieu-luc-2.mp3",
+    "title" : "hieu-luc-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-luc-1/hieu-luc-3.mp3",
+    "title" : "hieu-luc-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-luc-1/hieu-luc-4.mp3",
+    "title" : "hieu-luc-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

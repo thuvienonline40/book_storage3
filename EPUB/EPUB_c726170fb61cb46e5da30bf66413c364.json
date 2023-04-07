@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chi-dao-chi-ly_19622.html",
+    "title" : "Chị Đào Chị Lý",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 32507,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_c726170fb61cb46e5da30bf66413c364.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_c726170fb61cb46e5da30bf66413c364.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chi-dao-1/chi-dao-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "chi-dao-1"
+  }, {
+    "href" : "https://archive.org/download/chi-dao-1/chi-dao-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "chi-dao-2"
+  }, {
+    "href" : "https://archive.org/download/chi-dao-1/chi-dao-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "chi-dao-3"
+  }, {
+    "href" : "https://archive.org/download/chi-dao-1/chi-dao-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "chi-dao-4"
+  }, {
+    "href" : "https://archive.org/download/chi-dao-1/chi-dao-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3707,
+    "title" : "chi-dao-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chi-dao-1/chi-dao-1.mp3",
+    "title" : "chi-dao-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-dao-1/chi-dao-2.mp3",
+    "title" : "chi-dao-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-dao-1/chi-dao-3.mp3",
+    "title" : "chi-dao-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-dao-1/chi-dao-4.mp3",
+    "title" : "chi-dao-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-dao-1/chi-dao-5.mp3",
+    "title" : "chi-dao-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

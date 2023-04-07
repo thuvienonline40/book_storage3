@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/plato-va-con-thu-mo-vit-buoc-vao-quan-bar_19854.html",
+    "title" : "Plato Và Con Thú Mỏ Vịt Bước Vào Quán Bar",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thomas Cathcart",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 16728,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_f851b7d86a8802a3b875703b2ea5a70c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_f851b7d86a8802a3b875703b2ea5a70c.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/plato-3/plato-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2318,
+    "title" : "plato-1"
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2421,
+    "title" : "plato-2"
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2616,
+    "title" : "plato-3"
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1621,
+    "title" : "plato-4"
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1565,
+    "title" : "plato-5"
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2281,
+    "title" : "plato-6"
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2362,
+    "title" : "plato-7"
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1544,
+    "title" : "plato-8"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/plato-3/plato-1.mp3",
+    "title" : "plato-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-2.mp3",
+    "title" : "plato-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-3.mp3",
+    "title" : "plato-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-4.mp3",
+    "title" : "plato-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-5.mp3",
+    "title" : "plato-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-6.mp3",
+    "title" : "plato-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-7.mp3",
+    "title" : "plato-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/plato-3/plato-8.mp3",
+    "title" : "plato-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

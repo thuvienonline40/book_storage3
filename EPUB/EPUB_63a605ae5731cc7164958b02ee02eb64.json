@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vang-tieng-hong-chung_19790.html",
+    "title" : "Vẳng Tiếng Hồng Chung",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhuận Bình",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 16053,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_63a605ae5731cc7164958b02ee02eb64.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_63a605ae5731cc7164958b02ee02eb64.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vang-tieng-1/vang-tieng-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4148,
+    "title" : "vang-tieng-1"
+  }, {
+    "href" : "https://archive.org/download/vang-tieng-1/vang-tieng-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "vang-tieng-2"
+  }, {
+    "href" : "https://archive.org/download/vang-tieng-1/vang-tieng-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "vang-tieng-3"
+  }, {
+    "href" : "https://archive.org/download/vang-tieng-1/vang-tieng-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5016,
+    "title" : "vang-tieng-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vang-tieng-1/vang-tieng-1.mp3",
+    "title" : "vang-tieng-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vang-tieng-1/vang-tieng-2.mp3",
+    "title" : "vang-tieng-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vang-tieng-1/vang-tieng-3.mp3",
+    "title" : "vang-tieng-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vang-tieng-1/vang-tieng-4.mp3",
+    "title" : "vang-tieng-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

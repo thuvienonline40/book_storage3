@@ -1,0 +1,196 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cac-cuoc-chien-tranh-tien-te_19875.html",
+    "title" : "Các Cuộc Chiến Tranh Tiền Tệ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James Rickards",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 46146,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_4b414c15c547f61ecb53a4b4b2363f89.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_4b414c15c547f61ecb53a4b4b2363f89.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/01.CCCTTT_C01_TruocChienTranh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "01.CCCTTT C01 TruocChienTranh"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/02.CCCTTT_C02_ChienTranhTienTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3101,
+    "title" : "02.CCCTTT C02 ChienTranhTienTe"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/03.CCCTTT_C03_HoiUcVeMotThoiKiVangSon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3334,
+    "title" : "03.CCCTTT C03 HoiUcVeMotThoiKiVangSon"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/04.CCCTTT_C04_ChienTranhTienTeLanThuNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3961,
+    "title" : "04.CCCTTT C04 ChienTranhTienTeLanThuNhat"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/05.CCCTTT_C05_ChienTranhTienTeLanThu2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3470,
+    "title" : "05.CCCTTT C05 ChienTranhTienTeLanThu2"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/06.CCCTTT_C06A_ChienTranhTienTeLanThu3_Phan1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3049,
+    "title" : "06.CCCTTT C06A ChienTranhTienTeLanThu3 Phan1"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/07.CCCTTT_C06B_ChienTranhTienTeLanThu3_Phan2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2046,
+    "title" : "07.CCCTTT C06B ChienTranhTienTeLanThu3 Phan2"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/08.CCCTTT_C07_GiaiPhapCuaNhomG20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "08.CCCTTT C07 GiaiPhapCuaNhomG20"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/09.CCCTTT_C08_ToanCauHoaVaTuBanNhaNuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4106,
+    "title" : "09.CCCTTT C08 ToanCauHoaVaTuBanNhaNuoc"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/10.CCCTTT_C09A_SuLamDungKinhTeHoc_Phan1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3189,
+    "title" : "10.CCCTTT C09A SuLamDungKinhTeHoc Phan1"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/11.CCCTTT_C09B_SuLamDungKinhTeHoc_Phan2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2045,
+    "title" : "11.CCCTTT C09B SuLamDungKinhTeHoc Phan2"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/12.CCCTTT_C10A_CacLoaiTienTeVonVaLyThuyetPhucHop_Phan1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2916,
+    "title" : "12.CCCTTT C10A CacLoaiTienTeVonVaLyThuyetPhucHop Phan1"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/13.CCCTTT_C10B_CacLoaiTienTeVonVaLyThuyetPhucHop_Phan2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2527,
+    "title" : "13.CCCTTT C10B CacLoaiTienTeVonVaLyThuyetPhucHop Phan2"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/14.CCCTTT_C11A_TanCuocTinhTrangTienGiayVangHayLaTinhTrangHonloan_Phan1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2718,
+    "title" : "14.CCCTTT C11A TanCuocTinhTrangTienGiayVangHayLaTinhTrangHonloan Phan1"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/15.CCCTTT_C11B_TanCuocTinhTrangTienGiayVangHayLaTinhTrangHonloan_Phan2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2371,
+    "title" : "15.CCCTTT C11B TanCuocTinhTrangTienGiayVangHayLaTinhTrangHonloan Phan2"
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/16.CCCTTT_PhanKet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 699,
+    "title" : "16.CCCTTT PhanKet"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/01.CCCTTT_C01_TruocChienTranh.mp3",
+    "title" : "01.CCCTTT C01 TruocChienTranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/02.CCCTTT_C02_ChienTranhTienTe.mp3",
+    "title" : "02.CCCTTT C02 ChienTranhTienTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/03.CCCTTT_C03_HoiUcVeMotThoiKiVangSon.mp3",
+    "title" : "03.CCCTTT C03 HoiUcVeMotThoiKiVangSon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/04.CCCTTT_C04_ChienTranhTienTeLanThuNhat.mp3",
+    "title" : "04.CCCTTT C04 ChienTranhTienTeLanThuNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/05.CCCTTT_C05_ChienTranhTienTeLanThu2.mp3",
+    "title" : "05.CCCTTT C05 ChienTranhTienTeLanThu2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/06.CCCTTT_C06A_ChienTranhTienTeLanThu3_Phan1.mp3",
+    "title" : "06.CCCTTT C06A ChienTranhTienTeLanThu3 Phan1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/07.CCCTTT_C06B_ChienTranhTienTeLanThu3_Phan2.mp3",
+    "title" : "07.CCCTTT C06B ChienTranhTienTeLanThu3 Phan2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/08.CCCTTT_C07_GiaiPhapCuaNhomG20.mp3",
+    "title" : "08.CCCTTT C07 GiaiPhapCuaNhomG20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/09.CCCTTT_C08_ToanCauHoaVaTuBanNhaNuoc.mp3",
+    "title" : "09.CCCTTT C08 ToanCauHoaVaTuBanNhaNuoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/10.CCCTTT_C09A_SuLamDungKinhTeHoc_Phan1.mp3",
+    "title" : "10.CCCTTT C09A SuLamDungKinhTeHoc Phan1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/11.CCCTTT_C09B_SuLamDungKinhTeHoc_Phan2.mp3",
+    "title" : "11.CCCTTT C09B SuLamDungKinhTeHoc Phan2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/12.CCCTTT_C10A_CacLoaiTienTeVonVaLyThuyetPhucHop_Phan1.mp3",
+    "title" : "12.CCCTTT C10A CacLoaiTienTeVonVaLyThuyetPhucHop Phan1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/13.CCCTTT_C10B_CacLoaiTienTeVonVaLyThuyetPhucHop_Phan2.mp3",
+    "title" : "13.CCCTTT C10B CacLoaiTienTeVonVaLyThuyetPhucHop Phan2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/14.CCCTTT_C11A_TanCuocTinhTrangTienGiayVangHayLaTinhTrangHonloan_Phan1.mp3",
+    "title" : "14.CCCTTT C11A TanCuocTinhTrangTienGiayVangHayLaTinhTrangHonloan Phan1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/15.CCCTTT_C11B_TanCuocTinhTrangTienGiayVangHayLaTinhTrangHonloan_Phan2.mp3",
+    "title" : "15.CCCTTT C11B TanCuocTinhTrangTienGiayVangHayLaTinhTrangHonloan Phan2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cac-cuoc-chien-tranh-tien-te-nguyen-nhan-khung-hoang-toan-cau-sap-toi.sna/16.CCCTTT_PhanKet.mp3",
+    "title" : "16.CCCTTT PhanKet",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

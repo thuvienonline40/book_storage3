@@ -1,0 +1,56 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bo-chong_19342.html",
+    "title" : "Bỏ Chồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 10614,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_e7e65e82195777f76ca794df19bb35ec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_e7e65e82195777f76ca794df19bb35ec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bo-chong-1/bo-chong-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5798,
+    "title" : "bo-chong-1"
+  }, {
+    "href" : "https://archive.org/download/bo-chong-1/bo-chong-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4816,
+    "title" : "bo-chong-2"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bo-chong-1/bo-chong-1.mp3",
+    "title" : "bo-chong-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bo-chong-1/bo-chong-2.mp3",
+    "title" : "bo-chong-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

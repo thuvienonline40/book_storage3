@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-la-ai-va-neu-vay-thi-toi-dang-gia-bao-nhieu_19680.html",
+    "title" : "Tôi Là Ai - Và Nếu Vậy Thì Tôi Đáng Giá Bao Nhiêu?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard David Precht",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 22740,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_a78fccba796ca966702b9b22b2da8092.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_a78fccba796ca966702b9b22b2da8092.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4187,
+    "title" : "toi-la-1"
+  }, {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "toi-la-2"
+  }, {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "toi-la-3"
+  }, {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "toi-la-4"
+  }, {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "toi-la-5"
+  }, {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1753,
+    "title" : "toi-la-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-1.mp3",
+    "title" : "toi-la-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-2.mp3",
+    "title" : "toi-la-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-3.mp3",
+    "title" : "toi-la-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-4.mp3",
+    "title" : "toi-la-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-5.mp3",
+    "title" : "toi-la-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-2/toi-la-6.mp3",
+    "title" : "toi-la-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

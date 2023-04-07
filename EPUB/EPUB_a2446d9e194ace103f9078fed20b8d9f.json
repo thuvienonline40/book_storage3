@@ -1,0 +1,56 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/luoc-su-loai-nguoi_19670.html",
+    "title" : "Lược Sử Loài Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yuval Noah Harari",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21652,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_a2446d9e194ace103f9078fed20b8d9f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_a2446d9e194ace103f9078fed20b8d9f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luocsuloainguoi1/L%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20lo%C3%A0i%20ng%C6%B0%E1%BB%9Di1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10959,
+    "title" : "Lược sử loài người1"
+  }, {
+    "href" : "https://archive.org/download/luocsuloainguoi1/L%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20lo%C3%A0i%20ng%C6%B0%E1%BB%9Di2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10693,
+    "title" : "Lược sử loài người2"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luocsuloainguoi1/L%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20lo%C3%A0i%20ng%C6%B0%E1%BB%9Di1.mp3",
+    "title" : "Lược sử loài người1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luocsuloainguoi1/L%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20lo%C3%A0i%20ng%C6%B0%E1%BB%9Di2.mp3",
+    "title" : "Lược sử loài người2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
