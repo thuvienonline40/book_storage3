@@ -1,0 +1,276 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thuong-gia-do-thai-bac-thay-kinh-doanh_19895.html#gsc.tab=0",
+    "title" : "Thương Gia Do Thái, Bậc Thầy Kinh Doanh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Đông Triết",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 42992,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_147dfb2e1aaa825c75d6edacea52570c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_147dfb2e1aaa825c75d6edacea52570c.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/LoiNoiDau_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 343,
+    "title" : "LoiNoiDau Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/MucLuc_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 225,
+    "title" : "MucLuc Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2161,
+    "title" : "ThuongGiaDoThai P011"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P01_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "ThuongGiaDoThai P01 Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2290,
+    "title" : "ThuongGiaDoThai P02"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P03_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1472,
+    "title" : "ThuongGiaDoThai P03 Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P04_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1297,
+    "title" : "ThuongGiaDoThai P04 Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2356,
+    "title" : "ThuongGiaDoThai P05"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P06_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2291,
+    "title" : "ThuongGiaDoThai P06 Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1757,
+    "title" : "ThuongGiaDoThai P07"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1824,
+    "title" : "ThuongGiaDoThai P08"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P09_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1929,
+    "title" : "ThuongGiaDoThai P09 Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "ThuongGiaDoThai P10"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2161,
+    "title" : "ThuongGiaDoThai P011"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P01_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "ThuongGiaDoThai P01 Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2290,
+    "title" : "ThuongGiaDoThai P02"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P03_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1472,
+    "title" : "ThuongGiaDoThai P03 Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P04_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1297,
+    "title" : "ThuongGiaDoThai P04 Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2356,
+    "title" : "ThuongGiaDoThai P05"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P06_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2291,
+    "title" : "ThuongGiaDoThai P06 Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1757,
+    "title" : "ThuongGiaDoThai P07"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1824,
+    "title" : "ThuongGiaDoThai P08"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P09_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1929,
+    "title" : "ThuongGiaDoThai P09 Chuan"
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "ThuongGiaDoThai P10"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/LoiNoiDau_Chuan.mp3",
+    "title" : "LoiNoiDau Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/MucLuc_Chuan.mp3",
+    "title" : "MucLuc Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P011.mp3",
+    "title" : "ThuongGiaDoThai P011",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P01_Chuan.mp3",
+    "title" : "ThuongGiaDoThai P01 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P02.mp3",
+    "title" : "ThuongGiaDoThai P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P03_Chuan.mp3",
+    "title" : "ThuongGiaDoThai P03 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P04_Chuan.mp3",
+    "title" : "ThuongGiaDoThai P04 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P05.mp3",
+    "title" : "ThuongGiaDoThai P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P06_Chuan.mp3",
+    "title" : "ThuongGiaDoThai P06 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P07.mp3",
+    "title" : "ThuongGiaDoThai P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P08.mp3",
+    "title" : "ThuongGiaDoThai P08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P09_Chuan.mp3",
+    "title" : "ThuongGiaDoThai P09 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai%20P10.mp3",
+    "title" : "ThuongGiaDoThai P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P011.mp3",
+    "title" : "ThuongGiaDoThai P011",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P01_Chuan.mp3",
+    "title" : "ThuongGiaDoThai P01 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P02.mp3",
+    "title" : "ThuongGiaDoThai P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P03_Chuan.mp3",
+    "title" : "ThuongGiaDoThai P03 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P04_Chuan.mp3",
+    "title" : "ThuongGiaDoThai P04 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P05.mp3",
+    "title" : "ThuongGiaDoThai P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P06_Chuan.mp3",
+    "title" : "ThuongGiaDoThai P06 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P07.mp3",
+    "title" : "ThuongGiaDoThai P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P08.mp3",
+    "title" : "ThuongGiaDoThai P08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P09_Chuan.mp3",
+    "title" : "ThuongGiaDoThai P09 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-gia-do-thai-bac-thay-kinh-doanh-bi-mat-lam-giau-dinh-cao.sna/ThuongGiaDoThai_P10.mp3",
+    "title" : "ThuongGiaDoThai P10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
