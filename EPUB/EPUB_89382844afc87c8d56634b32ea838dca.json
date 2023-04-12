@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khong-tu-luan-ngu_19481.html",
+    "title" : "Khổng Tử & Luận Ngữ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hiến Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 26573,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_89382844afc87c8d56634b32ea838dca.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_89382844afc87c8d56634b32ea838dca.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khong-tu-1"
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khong-tu-2"
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khong-tu-3"
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khong-tu-4"
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khong-tu-5"
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khong-tu-6"
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "khong-tu-7"
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1373,
+    "title" : "khong-tu-8"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-1.mp3",
+    "title" : "khong-tu-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-2.mp3",
+    "title" : "khong-tu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-3.mp3",
+    "title" : "khong-tu-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-4.mp3",
+    "title" : "khong-tu-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-5.mp3",
+    "title" : "khong-tu-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-6.mp3",
+    "title" : "khong-tu-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-7.mp3",
+    "title" : "khong-tu-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-tu-1/khong-tu-8.mp3",
+    "title" : "khong-tu-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

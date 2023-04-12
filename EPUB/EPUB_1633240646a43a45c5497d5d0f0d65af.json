@@ -1,0 +1,356 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-dai-lam-phat-va-nhung-he-luy_19993.html",
+    "title" : "Cuộc Đại Lạm Phát Và Những Hệ Lụy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert J. Samuelson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 45787,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_1633240646a43a45c5497d5d0f0d65af.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_1633240646a43a45c5497d5d0f0d65af.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/01.%20DaiLamPhat00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/01._DaiLamPhat00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1462,
+    "title" : "01. DaiLamPhat00"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/02.%20DLP_C01A_Lich%20Su%20Da%20Mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/02._DLP_C01A_Lich_Su_Da_Mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4145,
+    "title" : "02. DLP C01A Lich Su Da Mat"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/03.%20DLP_C01B_Lich%20Su%20Da%20Mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/03._DLP_C01B_Lich_Su_Da_Mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3034,
+    "title" : "03. DLP C01B Lich Su Da Mat"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/04.%20DLP_C02A_Noi%20Am%20Anh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/04._DLP_C02A_Noi_Am_Anh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2770,
+    "title" : "04. DLP C02A Noi Am Anh"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/05.%20DLP_C02B_Noi%20Am%20Anh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/05._DLP_C02B_Noi_Am_Anh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1651,
+    "title" : "05. DLP C02B Noi Am Anh"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/06.%20DLP_C03A_Su%20Ket%20Noi%20Tien%20Te.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/06._DLP_C03A_Su_Ket_Noi_Tien_Te.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2673,
+    "title" : "06. DLP C03A Su Ket Noi Tien Te"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/07.%20DLP_C03B_Su%20Ket%20Noi%20Tien%20Te.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/07._DLP_C03B_Su_Ket_Noi_Tien_Te.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2125,
+    "title" : "07. DLP C03B Su Ket Noi Tien Te"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/08.%20DLP_C04A_Hiep%20Uoc%20Cua%20Niem%20Tin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/08._DLP_C04A_Hiep_Uoc_Cua_Niem_Tin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "08. DLP C04A Hiep Uoc Cua Niem Tin"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/09.%20DLP_C04B_Hiep%20Uoc%20Cua%20Niem%20Tin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/09._DLP_C04B_Hiep_Uoc_Cua_Niem_Tin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2687,
+    "title" : "09. DLP C04B Hiep Uoc Cua Niem Tin"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/10.%20DLP_C05A_Su%20Phuc%20Hoi%20Cua%20Chu%20Nghia%20Tu%20Ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/10._DLP_C05A_Su_Phuc_Hoi_Cua_Chu_Nghia_Tu_Ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2817,
+    "title" : "10. DLP C05A Su Phuc Hoi Cua Chu Nghia Tu Ban"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/11.%20DLP_C05B_Su%20Phuc%20Hoi%20Cua%20Chu%20Nghia%20Tu%20Ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/11._DLP_C05B_Su_Phuc_Hoi_Cua_Chu_Nghia_Tu_Ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2884,
+    "title" : "11. DLP C05B Su Phuc Hoi Cua Chu Nghia Tu Ban"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/12.%20DLP_C06A_Su%20Thinh%20Vuong%20Nhat%20Thoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/12._DLP_C06A_Su_Thinh_Vuong_Nhat_Thoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3466,
+    "title" : "12. DLP C06A Su Thinh Vuong Nhat Thoi"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/13.%20DLP_C06B_Su%20Thinh%20Vuong%20Nhat%20Thoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/13._DLP_C06B_Su_Thinh_Vuong_Nhat_Thoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1390,
+    "title" : "13. DLP C06B Su Thinh Vuong Nhat Thoi"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/14.%20DLP_C07A_Mot%20Tuong%20Lai%20Sung%20Tuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/14._DLP_C07A_Mot_Tuong_Lai_Sung_Tuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "14. DLP C07A Mot Tuong Lai Sung Tuc"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/15.%20DLP_C07B_Mot%20Tuong%20Lai%20Sung%20Tuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/15._DLP_C07B_Mot_Tuong_Lai_Sung_Tuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "15. DLP C07B Mot Tuong Lai Sung Tuc"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/16.%20DLP_BangChuGiaiThuatNgu_Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "400 Bad Request"
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/16._DLP_BangChuGiaiThuatNgu_Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5046,
+    "title" : "16. DLP BangChuGiaiThuatNgu Het"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/01.%20DaiLamPhat00.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/01._DaiLamPhat00.mp3",
+    "title" : "01. DaiLamPhat00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/02.%20DLP_C01A_Lich%20Su%20Da%20Mat.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/02._DLP_C01A_Lich_Su_Da_Mat.mp3",
+    "title" : "02. DLP C01A Lich Su Da Mat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/03.%20DLP_C01B_Lich%20Su%20Da%20Mat.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/03._DLP_C01B_Lich_Su_Da_Mat.mp3",
+    "title" : "03. DLP C01B Lich Su Da Mat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/04.%20DLP_C02A_Noi%20Am%20Anh.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/04._DLP_C02A_Noi_Am_Anh.mp3",
+    "title" : "04. DLP C02A Noi Am Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/05.%20DLP_C02B_Noi%20Am%20Anh.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/05._DLP_C02B_Noi_Am_Anh.mp3",
+    "title" : "05. DLP C02B Noi Am Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/06.%20DLP_C03A_Su%20Ket%20Noi%20Tien%20Te.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/06._DLP_C03A_Su_Ket_Noi_Tien_Te.mp3",
+    "title" : "06. DLP C03A Su Ket Noi Tien Te",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/07.%20DLP_C03B_Su%20Ket%20Noi%20Tien%20Te.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/07._DLP_C03B_Su_Ket_Noi_Tien_Te.mp3",
+    "title" : "07. DLP C03B Su Ket Noi Tien Te",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/08.%20DLP_C04A_Hiep%20Uoc%20Cua%20Niem%20Tin.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/08._DLP_C04A_Hiep_Uoc_Cua_Niem_Tin.mp3",
+    "title" : "08. DLP C04A Hiep Uoc Cua Niem Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/09.%20DLP_C04B_Hiep%20Uoc%20Cua%20Niem%20Tin.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/09._DLP_C04B_Hiep_Uoc_Cua_Niem_Tin.mp3",
+    "title" : "09. DLP C04B Hiep Uoc Cua Niem Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/10.%20DLP_C05A_Su%20Phuc%20Hoi%20Cua%20Chu%20Nghia%20Tu%20Ban.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/10._DLP_C05A_Su_Phuc_Hoi_Cua_Chu_Nghia_Tu_Ban.mp3",
+    "title" : "10. DLP C05A Su Phuc Hoi Cua Chu Nghia Tu Ban",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/11.%20DLP_C05B_Su%20Phuc%20Hoi%20Cua%20Chu%20Nghia%20Tu%20Ban.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/11._DLP_C05B_Su_Phuc_Hoi_Cua_Chu_Nghia_Tu_Ban.mp3",
+    "title" : "11. DLP C05B Su Phuc Hoi Cua Chu Nghia Tu Ban",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/12.%20DLP_C06A_Su%20Thinh%20Vuong%20Nhat%20Thoi.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/12._DLP_C06A_Su_Thinh_Vuong_Nhat_Thoi.mp3",
+    "title" : "12. DLP C06A Su Thinh Vuong Nhat Thoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/13.%20DLP_C06B_Su%20Thinh%20Vuong%20Nhat%20Thoi.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/13._DLP_C06B_Su_Thinh_Vuong_Nhat_Thoi.mp3",
+    "title" : "13. DLP C06B Su Thinh Vuong Nhat Thoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/14.%20DLP_C07A_Mot%20Tuong%20Lai%20Sung%20Tuc.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/14._DLP_C07A_Mot_Tuong_Lai_Sung_Tuc.mp3",
+    "title" : "14. DLP C07A Mot Tuong Lai Sung Tuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/15.%20DLP_C07B_Mot%20Tuong%20Lai%20Sung%20Tuc.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/15._DLP_C07B_Mot_Tuong_Lai_Sung_Tuc.mp3",
+    "title" : "15. DLP C07B Mot Tuong Lai Sung Tuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/16.%20DLP_BangChuGiaiThuatNgu_Het.mp3",
+    "title" : "400 Bad Request",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-dai-lam-phat-va-nhung-he-luy.sna/16._DLP_BangChuGiaiThuatNgu_Het.mp3",
+    "title" : "16. DLP BangChuGiaiThuatNgu Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
