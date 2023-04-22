@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chang-co-ai-ca_20018.html",
+    "title" : "Chẳng Có Ai Cả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ajahn Chah",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 6824,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_a8ac5c34b9aeb8d658baba3a169a2146.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_a8ac5c34b9aeb8d658baba3a169a2146.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chang-co-1/chang-co-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1562,
+    "title" : "chang-co-1"
+  }, {
+    "href" : "https://archive.org/download/chang-co-1/chang-co-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1475,
+    "title" : "02_Vo thuong_TAnh_8-15"
+  }, {
+    "href" : "https://archive.org/download/chang-co-1/chang-co-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "03_Phi nga_TAnh_15-21"
+  }, {
+    "href" : "https://archive.org/download/chang-co-1/chang-co-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 848,
+    "title" : "04_Hieu biet va tri tue_TAnh_21-25"
+  }, {
+    "href" : "https://archive.org/download/chang-co-1/chang-co-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1421,
+    "title" : "05_Hay xa bo tat ca"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chang-co-1/chang-co-1.mp3",
+    "title" : "chang-co-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chang-co-1/chang-co-2.mp3",
+    "title" : "02_Vo thuong_TAnh_8-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chang-co-1/chang-co-3.mp3",
+    "title" : "03_Phi nga_TAnh_15-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chang-co-1/chang-co-4.mp3",
+    "title" : "04_Hieu biet va tri tue_TAnh_21-25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chang-co-1/chang-co-5.mp3",
+    "title" : "05_Hay xa bo tat ca",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

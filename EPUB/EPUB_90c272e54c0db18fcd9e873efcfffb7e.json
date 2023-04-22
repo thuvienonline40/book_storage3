@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/madam-nhu-tran-le-xuan-quyen-luc-ba-rong_20060.html",
+    "title" : "Madam Nhu Trần Lệ Xuân: Quyền Lực Bà Rồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Monique Brinson Demery",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 35539,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_90c272e54c0db18fcd9e873efcfffb7e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_90c272e54c0db18fcd9e873efcfffb7e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2496,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 01"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1908,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 02"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2037,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 03"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2575,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 04"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1889,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 05"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3374,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 06"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 07"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2972,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 08"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2689,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 09"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2603,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 10"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2461,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 11"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4175,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 12"
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2371,
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 13"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_01.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_02.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_03.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_04.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_05.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_06.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_07.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_08.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_09.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_10.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_11.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_12.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/madam-nhu-tran-le-xuan.sna/MADAM_NHU_TRAN_LE_XUAN_QUYEN_LUC_BA_RONG_13.mp3",
+    "title" : "MADAM NHU TRAN LE XUAN QUYEN LUC BA RONG 13",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

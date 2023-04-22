@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thay-da-suoi-am-trai-tim-em_20117.html",
+    "title" : "Thầy Đã Sưởi Ấm Trái Tim Em",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 8822,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_a3be632d116c5c83cea3529bcde17f68.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_a3be632d116c5c83cea3529bcde17f68.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tat-ca-nhung-dieu-tot-dep/M%C3%B3n%20qu%C3%A0%20trong%20ng%C3%A0y%20l%E1%BB%85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2027,
+    "title" : "Món quà trong ngày lễ"
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-dieu-tot-dep/T%E1%BA%A1i%20sao%20t%C3%B4i%20ch%E1%BB%8Dn%20ngh%E1%BB%81%20gi%C3%A1o.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1978,
+    "title" : "Tại sao tôi chọn nghề giáo"
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-dieu-tot-dep/T%E1%BA%A5t%20c%E1%BA%A3%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20t%E1%BB%91t%20%C4%91%E1%BA%B9p.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2433,
+    "title" : "Tất cả những điều tốt đẹp"
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-dieu-tot-dep/%C4%90%C3%B4i%20tay%20th%E1%BA%A7y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2384,
+    "title" : "Đôi tay thầy"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tat-ca-nhung-dieu-tot-dep/M%C3%B3n%20qu%C3%A0%20trong%20ng%C3%A0y%20l%E1%BB%85.mp3",
+    "title" : "Món quà trong ngày lễ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-dieu-tot-dep/T%E1%BA%A1i%20sao%20t%C3%B4i%20ch%E1%BB%8Dn%20ngh%E1%BB%81%20gi%C3%A1o.mp3",
+    "title" : "Tại sao tôi chọn nghề giáo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-dieu-tot-dep/T%E1%BA%A5t%20c%E1%BA%A3%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20t%E1%BB%91t%20%C4%91%E1%BA%B9p.mp3",
+    "title" : "Tất cả những điều tốt đẹp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-ca-nhung-dieu-tot-dep/%C4%90%C3%B4i%20tay%20th%E1%BA%A7y.mp3",
+    "title" : "Đôi tay thầy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cu-hich_20046.html",
+    "title" : "Cú Hích",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard H. Thaler",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 16395,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/EPUB/EPUB_f058b797267e2c450dbb4dba3cbb415e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage3/main/IMAGE/IMAGE_f058b797267e2c450dbb4dba3cbb415e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3494,
+    "title" : "cu hich p1"
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2219,
+    "title" : "cu hich p2"
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "cu hich p3"
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1496,
+    "title" : "cu hich p4"
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2674,
+    "title" : "cu hich p5"
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1375,
+    "title" : "cu hich p6"
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2027,
+    "title" : "cu hich p7"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p1.mp3",
+    "title" : "cu hich p1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p2.mp3",
+    "title" : "cu hich p2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p3.mp3",
+    "title" : "cu hich p3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p4.mp3",
+    "title" : "cu hich p4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p5.mp3",
+    "title" : "cu hich p5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p6.mp3",
+    "title" : "cu hich p6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cu_hich/cu_hich_p7.mp3",
+    "title" : "cu hich p7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
